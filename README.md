@@ -6,6 +6,57 @@
 
 ---
 
+## 🛠 Technical Skills
+
+### Programming Languages:
+- Python, SQL, C++, R
+
+### Data Science / Machine Learning / Deep Learning:
+- Supervised Learning Algorithms
+- Unsupervised Learning Algorithms
+- Artificial Neural Networks (ANN)
+- Convolutional Neural Networks (CNN)
+- Exploratory Data Analysis (EDA)
+- Feature Engineering, Selection, and Extraction
+- Natural Language Processing
+- Transfer Learning (VGG16)
+- Data Modelling
+- Time Series Analysis
+- Data Visualization
+- Handling Structured & Unstructured Data
+- MS Excel
+
+### Mathematics for ML & DL:
+- Algebra
+- Probability
+- Statistics
+- Calculus
+- Matrices
+
+### Python Packages and Frameworks:
+- Keras
+- Numpy
+- Pandas
+- Scikit-Learn
+- TensorFlow
+- SciPy
+
+### Visualization Techniques:
+- Tableau
+- Power BI
+- Seaborn
+- Matplotlib
+- Cognos
+
+### Databases:
+- MySQL
+- DB2
+
+### Version Control:
+- Git
+---
+  
+
 ## 👩‍🎓 Education
 
 - **St. Clair College, Windsor, Ontario**  
@@ -18,11 +69,13 @@
 
 ## 💼 Professional Experience
 
-- **Marketing Officer, Heyday Balloons, India**  
-  _October 2019 - April 2020_
 
 - **Presales Engineer, Topaz FZE (Avaya Partner), Dubai**  
   _February 2021 - November 2022_
+
+  - **Marketing Officer, Heyday Balloons, India**  
+  _October 2019 - April 2020_
+
 
 ---
 
@@ -31,16 +84,14 @@
 - Lean Six Sigma Green Belt Certificate - TUV SUD South Asia Pvt. Ltd
 - Winner of Data Challenge, St.Clair College
 - Volunteer at Google Dev Fest Windsor-Essex DevFest 2023
+- Winner of University Chess Championship 2017
+- Leader of College HipHop Dance team and won Indian Hip Hop Audition
 
 ---
 
 ## 🛠 Technical Skills
 
-- **Languages:** Python, SQL, C++, R
-- **Frameworks:** Keras, TensorFlow, Scikit-Learn, Pandas, Numpy, SciPy
-- **Visualization:** Seaborn, Matplotlib, Tableau, Power BI, Cognos
-- **Databases:** MySQL, DB2
-- **Version Control:** Git
+
 
 ---
 
