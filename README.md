@@ -1,28 +1,73 @@
+# Ann Babu Treeza
 
-### Hi there 👋, My name is Ann Babu Treeza
-#### Machine Learning Enthusiast
+📧 [treezaannbabu@gmail.com](mailto:treezaannbabu@gmail.com)  
+📍 6,36 - Hanna Street, Windsor  
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/ann-treeza/)
 
-![Machine Learning Enthusiast](https:/anntreeza.github.io)
+---
 
-I am a Data Analyst student at St.Clair College. Aspiring Machine learning engineer. 
+## 👩‍🎓 Education
 
-Skills: 
-- Programming Languages :  Python, SQL, C++, R
-- Data Science / Machine Learning / Deep Learning  Supervised learning algos, Unsupervised Learning algorithms, ANN,CNN,EDA ,Feature engineering, Feature selection, Feature Extraction, Natural Language Processing, Transfer Learnings VGG16 , Data Modelling, Time Series Analysis, Data Visualisation, Structured & Unstructured Data, MS Excel Mathematics for ML & DL  Algebra, Probability, Statistics, Calculus, Matrices.
-- Python packages and Framework:  keras, Numpy, Pandas, Scikit-Learn, Tensorflow, SciPy
-- Visualization Techniques :   Tableau, Power BI, Seaborn, Matplotlib, Cognos
-- Databases : MySQL, DB2
-- Version Control : Git
+- **St. Clair College, Windsor, Ontario**  
+  _Data Analytics for Business_ (4 GPA), 2023 - 2024
 
-- 🌱 I’m currently learning Data Analysis & Machine Learning at St.Clair College
-- 📫 How to reach me: https://www.linkedin.com/in/ann-treeza/ 
+- **University of Calicut, Vidya Academy of Science and Technology, Kerala**  
+  _Bachelor of Technology in Electronics and Communication Engineering_, 2014 - 2018
 
+---
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/anntreeza)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/ann-treeza//)  
+## 💼 Professional Experience
 
+- **Marketing Officer, Heyday Balloons, India**  
+  _October 2019 - April 2020_
 
+- **Presales Engineer, Topaz FZE (Avaya Partner), Dubai**  
+  _February 2021 - November 2022_
 
-<!---
-anntreezav/anntreezav is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## 🏆 Achievements & Certifications
+
+- Lean Six Sigma Green Belt Certificate - TUV SUD South Asia Pvt. Ltd
+- Winner of Data Challenge, St.Clair College
+- Volunteer at Google Dev Fest Windsor-Essex DevFest 2023
+
+---
+
+## 🛠 Technical Skills
+
+- **Languages:** Python, SQL, C++, R
+- **Frameworks:** Keras, TensorFlow, Scikit-Learn, Pandas, Numpy, SciPy
+- **Visualization:** Seaborn, Matplotlib, Tableau, Power BI, Cognos
+- **Databases:** MySQL, DB2
+- **Version Control:** Git
+
+---
+
+## 📚 Projects
+
+1. **Donkey Car Project**  
+   Autonomous car development on Donkey Car platform with Raspberry Pi 4b.
+   
+2. **Autonomous Car Using Arduino Board**  
+   Design and programming of an Arduino-based car with ultrasonic sensors.
+
+3. **Data Analysis: Understanding Alzheimer's in USA**  
+   EDA and Tableau Dashboard for Alzheimer's data analysis.
+
+4. **Data Analysis: Restaurant Chain in the Middle East**  
+   Time Series Analysis and Sales Forecasting using Excel, Python, Tableau.
+
+---
+
+## 📝 Publications
+
+- ["VHDL Implementation and Testing of Data Compression Algorithm in Digital Communication"](https://zenodo.org/record/1227209#.YnvZBehBzIU)
+
+---
+
+## 🎯 Objective
+
+Dedicated data analytics student with a passion for mathematics, machine learning, and deep learning. Seeking an internship as a Machine Learning Engineer to leverage my skills in these areas.
+
+---
