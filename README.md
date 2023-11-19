@@ -27,35 +27,37 @@
 - MS Excel
 
 ### Mathematics for ML & DL:
-- Algebra
-- Probability
-- Statistics
-- Calculus
-- Matrices
-
+- Algebra, Probability, Statistics, Calculus, Matrices
+  
 ### Python Packages and Frameworks:
-- Keras
-- Numpy
-- Pandas
-- Scikit-Learn
-- TensorFlow
-- SciPy
-
+- Keras,Numpy,Pandas,Scikit-Learn, TensorFlow, SciPy
+  
 ### Visualization Techniques:
-- Tableau
-- Power BI
-- Seaborn
-- Matplotlib
-- Cognos
+- Tableau, Power BI, Seaborn, Matplotlib, Cognos, Canva
 
 ### Databases:
-- MySQL
-- DB2
+- MySQL, DB2
 
 ### Version Control:
 - Git
 ---
-  
+  ---
+
+## 📚 Projects
+
+1. **Donkey Car Project**  
+   Autonomous car development on Donkey Car platform with Raspberry Pi 4b.
+   
+2. **Autonomous Car Using Arduino Board**  
+   Design and programming of an Arduino-based car with ultrasonic sensors.
+
+3. **Data Analysis: Understanding Alzheimer's in USA**  
+   EDA and Tableau Dashboard for Alzheimer's data analysis.
+
+4. **Data Analysis: Restaurant Chain in the Middle East**  
+   Time Series Analysis and Sales Forecasting using Excel, Python, Tableau.
+
+---
 
 ## 👩‍🎓 Education
 
@@ -89,36 +91,8 @@
 
 ---
 
-## 🛠 Technical Skills
-
-
-
----
-
-## 📚 Projects
-
-1. **Donkey Car Project**  
-   Autonomous car development on Donkey Car platform with Raspberry Pi 4b.
-   
-2. **Autonomous Car Using Arduino Board**  
-   Design and programming of an Arduino-based car with ultrasonic sensors.
-
-3. **Data Analysis: Understanding Alzheimer's in USA**  
-   EDA and Tableau Dashboard for Alzheimer's data analysis.
-
-4. **Data Analysis: Restaurant Chain in the Middle East**  
-   Time Series Analysis and Sales Forecasting using Excel, Python, Tableau.
-
----
-
 ## 📝 Publications
 
 - ["VHDL Implementation and Testing of Data Compression Algorithm in Digital Communication"](https://zenodo.org/record/1227209#.YnvZBehBzIU)
-
----
-
-## 🎯 Objective
-
-Dedicated data analytics student with a passion for mathematics, machine learning, and deep learning. Seeking an internship as a Machine Learning Engineer to leverage my skills in these areas.
 
 ---
